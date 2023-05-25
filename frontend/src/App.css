@@ -1,0 +1,16 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+.cng-color {
+  padding-left: 1rem;
+  color: white;
+}
+#basic-nav-dropdown {
+  color: white;
+}
